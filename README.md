@@ -1,8 +1,8 @@
-Complete documentation about the CouchDB API available here: https://docs.couchdb.org/en/stable/api/index.html <br> 
+Complete documentation about the CouchDB API available here: <br>https://docs.couchdb.org/en/stable/api/index.html <br> 
 
 Perl module:<br>
 
-<b>CouchDB::CouchManager<b><br> 
+<b>CouchDB::CouchManager</b><br> 
 
  - list_dbs() <br>
    Get a list of available databases <br>
@@ -22,7 +22,7 @@ Perl module:<br>
  - get_db_info(db_name) <br>
    Gets information about the database <br>
  
-<b>CouchDB::CouchDB<b><br>
+<b>CouchDB::CouchDB</b><br>
 
  - exists_doc(doc_id)
    Returns true if document exists in the DB <br>
