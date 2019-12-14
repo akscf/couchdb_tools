@@ -1,0 +1,5 @@
+#!/bin/bash
+
+PERL5LIB='./' ./couchtest.pl
+
+
